@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Wordle Game Test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Wordle_Game_Test_jar</output-path>
+    <root id="archive" name="Wordle Game Test.jar">
+      <element id="module-output" name="Wordle Game Test" />
+    </root>
+  </artifact>
+</component>
